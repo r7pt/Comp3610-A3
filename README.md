@@ -1,6 +1,6 @@
 # Comp3610-A3
 
-**#NYC Taxi Intelligence System 
+**NYC Taxi Intelligence System**
 
 This project is a RAG system that helps users analyze NYC Taxi data. It can calculate math from a massive database and read complex policy documents at the same time.
 
